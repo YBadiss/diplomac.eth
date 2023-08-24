@@ -9,7 +9,7 @@ graph LR
     app -- read --> chain(Chain)
 ```
 
-- [ ] Basic App and Service with SIWE https://github.com/spruceid/siwe-quickstart/tree/main/03_complete_app
+- [x] Basic App and Service with SIWE https://github.com/spruceid/siwe-quickstart/tree/main/03_complete_app
 - [ ] Sign a simple EIP-712 message, stored by the Service
 - [ ] Define interface of game data
 - [ ] Implement mock of game data retrieval
